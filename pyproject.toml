@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "square-packer-checker"
+version = "0.1.0"
+description = "Check rotated square packing in SVG files"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "OpenAI"}
+]
+
+[project.scripts]
+square-packer-checker = "square_packer_checker:main"
+
+[tool.setuptools]
+py-modules = ["square_packer_checker"]
