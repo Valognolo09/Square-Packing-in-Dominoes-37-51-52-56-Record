@@ -20,7 +20,12 @@ This repository presents a new best known packing for the Squares in Dominoes pa
 
 ![Packing56](56_5.72366.png)
 
-
+## Results
+The new packings are (rounding by excess to the nearest thousandth):
+n = 37: 4.724
+n = 51: 5.414
+n = 52: 5.461
+n = 56: 4.724
 
 ## Verification
 To verify the validity of these packings this python code [check](square_packer_checker.py) was used.
