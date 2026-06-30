@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="343.4194258024325" height="171.70971290121625" viewBox="0 0 343.4194258024325 171.70971290121625">
 <!-- packing-meta: {"inner_ratio": [1.0, 1.0], "outer_ratio": [2.0, 1.0], "shape_size": [30.0, 30.0], "container_size": [343.4194258024325, 171.70971290121625], "num_shapes": 56, "snap_symmetry": 1.5707963267948966, "best_density": 0.8546943176802433, "format": "rect"} -->
 
-  <rect x="0" y="0" width="343.4194258024325" height="171.70971290121625" fill="none" stroke="#3c3c50" stroke-width="2" data-container="true"/>
+  <rect x="0" y="0" width="343.4194258024325" height="171.70971290121625" fill="white" stroke="#3c3c50" stroke-width="2" data-container="true"/>
   <g id="shapes">
     <rect x="77.0574" y="48.6702" width="30.000000" height="30.000000" transform="rotate(310.802045 92.0574 63.6702)" fill="#ccffff" stroke="black" stroke-width="0.2" data-x="520.347647" data-y="442.815388" data-w="30.000000" data-h="30.000000" data-rotation="5.424519"/>
     <rect x="253.4196" y="-0.0000" width="30.000000" height="30.000000" transform="rotate(0.000000 268.4196 15.0000)" fill="#ccffff" stroke="black" stroke-width="0.2" data-x="696.709894" data-y="394.145111" data-w="30.000000" data-h="30.000000" data-rotation="0.000000"/>

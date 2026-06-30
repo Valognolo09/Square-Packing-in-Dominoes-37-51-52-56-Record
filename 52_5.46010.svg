@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="327.606" height="163.803" viewBox="0 0 327.606 163.803" touch-action="none">
 <!-- packing-meta: {"inner_ratio": [1.0, 1.0], "outer_ratio": [2.0, 1.0], "shape_size": [30.0, 30.0], "container_size": [327.60579585025624, 163.80289792512812], "num_shapes": 52, "snap_symmetry": 1.5707963267948966, "best_density": 0.8721128704323954, "format": "rect"} -->
 
-  <rect x="0" y="0" width="327.606" height="163.803" fill="none" stroke="#3c3c50" stroke-width="2" data-container="true"/>
+  <rect x="0" y="0" width="327.606" height="163.803" fill="white" stroke="#3c3c50" stroke-width="2" data-container="true"/>
   <g id="shapes">
     <rect x="-0.0028" y="-0.0015" width="30.000000" height="30.000000" transform="rotate(90.000073 14.9972 14.9985)" fill="#ccffff" stroke="black" stroke-width="0.2" data-x="451.194343" data-y="383.097070" data-w="30.000000" data-h="30.000000" data-rotation="1.570798"/>
     <rect x="177.6088" y="133.8037" width="30.000000" height="30.000000" transform="rotate(-0.000044 192.6088 148.8037)" fill="#ccffff" stroke="black" stroke-width="0.2" data-x="628.805886" data-y="516.902272" data-w="30.000000" data-h="30.000000" data-rotation="-0.000001"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="324.79" height="162.395" viewBox="0 0 324.79 162.395" touch-action="none">
 <!-- packing-meta: {"inner_ratio": [1.0, 1.0], "outer_ratio": [2.0, 1.0], "shape_size": [30.0, 30.0], "container_size": [324.7900474650947, 162.39502373254734], "num_shapes": 51, "snap_symmetry": 1.5707963267948966, "best_density": 0.8702364218954207, "format": "rect"} -->
 
-  <rect x="0" y="0" width="324.79" height="162.395" fill="none" stroke="#3c3c50" stroke-width="2" data-container="true"/>
+  <rect x="0" y="0" width="324.79" height="162.395" fill="white" stroke="#3c3c50" stroke-width="2" data-container="true"/>
   <g id="shapes">
     <rect x="29.9997" y="102.0941" width="30.0000" height="30.0000" transform="rotate(-0.0000,44.9997,117.0941)" fill="#ccffff" stroke="black" stroke-width="0.2" data-x="482.604683" data-y="485.896576" data-w="30.000000" data-h="30.000000" data-rotation="6.283185" class=""/>
     <rect x="264.7887" y="1.0200" width="30.0000" height="30.0000" transform="rotate(-0.0020,279.7887,16.0200)" fill="#ccffff" stroke="black" stroke-width="0.2" data-x="717.393659" data-y="384.822411" data-w="30.000000" data-h="30.000000" data-rotation="-0.000035" class=""/>
